@@ -15,6 +15,7 @@ Los artefactos de código se encuentran separados para el Frontend y el Backend:
 Haz clic en los enlaces para acceder a la documentación detallada:
 
 ### 1. Diseño estratégico
+
 * [**1.1. Visión**]
 * [**1.2. Mapa de impacto**]
 * [**1.3. Modelos de dominio**]
@@ -26,6 +27,7 @@ Haz clic en los enlaces para acceder a la documentación detallada:
 * [**1.4. Mapa de Historias de Usuario**]
 
 ### 2. Diseño detallado
+
 * [**2.1. Diagrama de clases**] 
 * [**2.2. Diagrama de componentes**]
 * [**2.3. Diagrama de paquetes**]
@@ -34,20 +36,23 @@ Haz clic en los enlaces para acceder a la documentación detallada:
 * [**2.6. MER**]
 
 ### 3. Especificaciones técnicas
+
 * [**3.1. Requisitos Funcionales**]
 * [**3.2. Requisitos No Funcionales**]
 * [**3.3. Atributos de calidad**]
 
 ### 4. Seguimiento y pruebas
+
 * [**4.1. Análisis de código**]}
 * [**4.2. Pruebas unitárias**]
 
 ### 5. Despliegue y entrega
+
 * [**5.1. Checklist de release**]
 * [**5.2. Manual de usuario**]
 
 ## 👩‍💻 Autoría
 
-* **Estudiantes:** [Kevin Stiven Montoya Prada - Sebastian Marín Gómez]
-* **Asesor de proyecto:** [Luz Mery Rios Alzate]
-* **Fecha de Sustentación:** 
+* **Estudiantes:** Kevin Stiven Montoya Prada - Sebastian Marín Gómez
+* **Asesor de proyecto:** Luz Mery Rios Alzate
+* **Fecha de Sustentación:**
