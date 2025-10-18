@@ -8,7 +8,7 @@ generar cotizaciones con proveedores del sector ferretero".
 Los artefactos de código se encuentran separados para el Frontend y el Backend:
 
 * **Frontend:** [front-cotionline]
-* **Backend:** [back-cotionline](https://github.com/sebasmg25/back-cotionline)]
+* **Backend:** [back-cotionline](https://github.com/sebasmg25/back-cotionline)
 
 ## 📑 Índice de la Documentación
 
@@ -16,11 +16,11 @@ Haz clic en los enlaces para acceder a la documentación detallada:
 
 ### 1. Diseño estratégico
 
-* [**1.1. Visión**]
-* [**1.2. Mapa de impacto**]
+* [**1.1. Visión**](./Artefactos%20estrategicos/vision.md)
+* [**1.2. Mapa de impacto**](./Artefactos%20estrategicos/mapa%20de%20impacto.md)
 * [**1.3. Modelos de dominio**]
-    * [Anémico]
-    * [Enriquecido]
+      * [Anémico](./Artefactos%20estrategicos/modelo%20de%20dominio/modeloAnemico.md)
+      * [Enriquecido]
        - [Contexto 1 - Cliente]
        - [Contexto 2 - Proveedor]
        - [Contexto 3 - Administrador]
