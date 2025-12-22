@@ -21,25 +21,25 @@ Haz clic en los enlaces para acceder a la documentación detallada:
 * [**1.3. Modelos de dominio**]
       * [Anémico](./Artefactos%20estrategicos/modelo%20de%20dominio/modeloAnemico.md)
       * [Enriquecido]
-       - [Contexto 1 - Cliente]
-       - [Contexto 2 - Proveedor]
-       - [Contexto 3 - Administrador]
+       - [Contexto 1 - Cliente](./Plantillas/Cliente%20-%20Plantilla%20Modelo%20enriquecido.xlsx)
+       - [Contexto 2 - Proveedor](./Plantillas/Proveedor%20-%20Plantilla%20Modelo%20enriquecido.xlsx)
+       - [Contexto 3 - Administrador](./Plantillas/Administrador%20-%20Plantilla%20Modelo%20enriquecido.xlsx)
 * [**1.4. Mapa de Historias de Usuario**]
 
 ### 2. Diseño detallado
 
-* [**2.1. Diagrama de clases**] 
-* [**2.2. Diagrama de componentes**]
-* [**2.3. Diagrama de paquetes**]
-* [**2.4. Diagrama de secuencia**]
-* [**2.5. Diagrama de despliegue**]
+* [**2.1. Diagrama de clases**](./imagenes/D-clases.png)
+* [**2.2. Diagrama de componentes**](./Plantillas/PlantillaDocumentaciónDiagramaComponentes.xlsx)
+* [**2.3. Diagrama de paquetes**](./Plantillas/PlantillaDocumentaciónDiagramaPaquetes.xlsx)
+* [**2.4. Diagrama de secuencia**](./Plantillas/PlantillaDocumentaciónDiagramaSecuencia.xlsx)
+* [**2.5. Diagrama de despliegue**](./Plantillas/PlantillaDocumentaciónDiagramaDespliegue.xlsx)
 * [**2.6. MER**]
 
 ### 3. Especificaciones técnicas
 
 * [**3.1. Requisitos Funcionales**]
 * [**3.2. Requisitos No Funcionales**]
-* [**3.3. Atributos de calidad**]
+* [**3.3. Atributos de calidad**](./Plantillas/Atributos%20de%20calidad.docx)
 
 ### 4. Seguimiento y pruebas
 
