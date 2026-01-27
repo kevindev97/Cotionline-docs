@@ -24,7 +24,7 @@ Haz clic en los enlaces para acceder a la documentación detallada:
        - [Contexto 1 - Cliente](./Plantillas/Cliente%20-%20Plantilla%20Modelo%20enriquecido.xlsx)
        - [Contexto 2 - Proveedor](./Plantillas/Proveedor%20-%20Plantilla%20Modelo%20enriquecido.xlsx)
        - [Contexto 3 - Administrador](./Plantillas/Administrador%20-%20Plantilla%20Modelo%20enriquecido.xlsx)
-* [**1.4. Mapa de Historias de Usuario**]
+* [**1.4. Mapa de Historias de Usuario**](./Plantillas/Plantilla%20Mapa%20de%20historias%20de%20usuario.xlsx)
 
 ### 2. Diseño detallado
 
@@ -33,7 +33,7 @@ Haz clic en los enlaces para acceder a la documentación detallada:
 * [**2.3. Diagrama de paquetes**](./Plantillas/PlantillaDocumentaciónDiagramaPaquetes.xlsx)
 * [**2.4. Diagrama de secuencia**](./Plantillas/PlantillaDocumentaciónDiagramaSecuencia.xlsx)
 * [**2.5. Diagrama de despliegue**](./Plantillas/PlantillaDocumentaciónDiagramaDespliegue.xlsx)
-* [**2.6. MER**]
+* [**2.6. MER**](./Plantillas/Imagen%20MER%20(1).png)
 
 ### 3. Especificaciones técnicas
 
@@ -43,7 +43,7 @@ Haz clic en los enlaces para acceder a la documentación detallada:
 
 ### 4. Seguimiento y pruebas
 
-* [**4.1. Análisis de código**]}
+* [**4.1. Análisis de código**]
 * [**4.2. Pruebas unitárias**]
 
 ### 5. Despliegue y entrega
