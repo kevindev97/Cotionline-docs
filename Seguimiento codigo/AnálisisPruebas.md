@@ -32,10 +32,11 @@ El sistema obtuvo una calificación Triple A (AAA), lo que representa un softwar
 ![imagen #3](../imagenes/seg3.png)
 
 4.2. Desglose de Indicadores
-Fiabilidad (Reliability): Calificación A. Se detectaron 0 bugs en el código analizado.
-Seguridad: Calificación A. El sistema cuenta con 0 vulnerabilidades y 0 Hotspots de seguridad abiertos, garantizando el manejo seguro de los datos.
-Mantenibilidad: Calificación A. Se mantiene una deuda técnica mínima, facilitando que nuevos desarrolladores puedan escalar el sistema sin dificultades.
-Duplicidad: Solo un 2.4% de código duplicado, lo que demuestra un desarrollo limpio y optimizado.
+
+- Fiabilidad (Reliability): Calificación A. Se detectaron 0 bugs en el código analizado.
+- Seguridad: Calificación A. El sistema cuenta con 0 vulnerabilidades y 0 Hotspots de seguridad abiertos, garantizando el manejo seguro de los datos.
+- Mantenibilidad: Calificación A. Se mantiene una deuda técnica mínima, facilitando que nuevos desarrolladores puedan escalar el sistema sin dificultades.
+- Duplicidad: Solo un 2.4% de código duplicado, lo que demuestra un desarrollo limpio y optimizado.
 
 ![imagen #4](../imagenes/seg4.png)
 
