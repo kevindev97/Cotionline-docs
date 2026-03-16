@@ -24,11 +24,11 @@ Haz clic en los enlaces para acceder a la documentación detallada:
        - [Contexto 1 - Usuario](./Plantillas/Usuario%20-%20Plantilla%20Modelo%20enriquecido.xlsx)
        - [Contexto 2 - Proveedor](./Plantillas/Proveedor%20-%20Plantilla%20Modelo%20enriquecido.xlsx)
        - [Contexto 3 - Administrador](./Plantillas/Administrador%20-%20Plantilla%20Modelo%20enriquecido.xlsx)
-* [**1.4. Mapa de Historias de Usuario**](./Plantillas/Plantilla%20Mapa%20de%20historias%20de%20usuario.xlsx)
+* [**1.4. Mapa de Historias de Usuario**](./Artefactos%20estrategicos/Historias%20de%20usuario/HU.md)
 
 ### 2. Diseño detallado
 
-* [**2.1. Diagrama de clases**](./imagenes/Dclases.png)
+* [**2.1. Diagrama de clases**](./Artefactos%20tecnicos/diagramaClases.md)
 * [**2.2. Diagrama de componentes**](./Artefactos%20tecnicos/diagramaComp.md)
 * [**2.3. Diagrama de paquetes**](./Artefactos%20tecnicos/diagramaPaq.md)
 * [**2.4. Diagrama de secuencia**](./Artefactos%20tecnicos/diagramaSec.md)
