@@ -1,4 +1,4 @@
-# 🎓 Documentación de Proyecto de Grado: Cotionline.
+# 🎓 Documentación de Proyecto de Grado: Cotionline
 
 Este repositorio contiene la **documentación formal** completa del proyecto de Grado titulado "Construcción de una app web para realizar la gestión oportuna y efectiva del proceso de solicitar y/o
 generar cotizaciones con proveedores del sector ferretero".
@@ -19,16 +19,16 @@ Haz clic en los enlaces para acceder a la documentación detallada:
 * [**1.1. Visión**](./Artefactos%20estrategicos/vision.md)
 * [**1.2. Mapa de impacto**](./Artefactos%20estrategicos/mapa%20de%20impacto.md)
 * [**1.3. Modelos de dominio**]
-      * [Anémico](./Artefactos%20estrategicos/modelo%20de%20dominio/modeloAnemico.md)
+      *[Anémico](./Artefactos%20estrategicos/modelo%20de%20dominio/modeloAnemico.md)
       * [Enriquecido]
-       - [Contexto 1 - Cliente](./Plantillas/Cliente%20-%20Plantilla%20Modelo%20enriquecido.xlsx)
+       - [Contexto 1 - Usuario](./Plantillas/Usuario%20-%20Plantilla%20Modelo%20enriquecido.xlsx)
        - [Contexto 2 - Proveedor](./Plantillas/Proveedor%20-%20Plantilla%20Modelo%20enriquecido.xlsx)
        - [Contexto 3 - Administrador](./Plantillas/Administrador%20-%20Plantilla%20Modelo%20enriquecido.xlsx)
 * [**1.4. Mapa de Historias de Usuario**](./Plantillas/Plantilla%20Mapa%20de%20historias%20de%20usuario.xlsx)
 
 ### 2. Diseño detallado
 
-* [**2.1. Diagrama de clases**](./imagenes/D-clases.png)
+* [**2.1. Diagrama de clases**](./imagenes/Dclases.png)
 * [**2.2. Diagrama de componentes**](./Plantillas/PlantillaDocumentaciónDiagramaComponentes.xlsx)
 * [**2.3. Diagrama de paquetes**](./Plantillas/PlantillaDocumentaciónDiagramaPaquetes.xlsx)
 * [**2.4. Diagrama de secuencia**](./Plantillas/PlantillaDocumentaciónDiagramaSecuencia.xlsx)
@@ -48,8 +48,7 @@ Haz clic en los enlaces para acceder a la documentación detallada:
 
 ### 5. Despliegue y entrega
 
-* [**5.1. Checklist de release**]
-* [**5.2. Manual de usuario**]
+* [**5.1. Manual de usuario**](./Artefactos%20tecnicos/guiaUsuario.md)
 
 ## 👩‍💻 Autoría
 
