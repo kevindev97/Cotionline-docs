@@ -7,7 +7,7 @@ generar cotizaciones con proveedores del sector ferretero".
 
 Los artefactos de código se encuentran separados para el Frontend y el Backend:
 
-* **Frontend:** [front-cotionline]
+* **Frontend:** [front-cotionline](https://github.com/sebasmg25/front-cotionline)
 * **Backend:** [back-cotionline](https://github.com/sebasmg25/back-cotionline)
 
 ## 📑 Índice de la Documentación
@@ -19,7 +19,7 @@ Haz clic en los enlaces para acceder a la documentación detallada:
 * [**1.1. Visión**](./Artefactos%20estrategicos/vision.md)
 * [**1.2. Mapa de impacto**](./Artefactos%20estrategicos/mapa%20de%20impacto.md)
 * [**1.3. Modelos de dominio**]
-      *[Anémico](./Artefactos%20estrategicos/modelo%20de%20dominio/modeloAnemico.md)
+      *[Anémico](./imagenes/Modelo%20de%20dominio%20anémico.png)
       * [Enriquecido]
        - [Contexto 1 - Usuario](./Plantillas/Usuario%20-%20Plantilla%20Modelo%20enriquecido.xlsx)
        - [Contexto 2 - Proveedor](./Plantillas/Proveedor%20-%20Plantilla%20Modelo%20enriquecido.xlsx)
@@ -29,22 +29,21 @@ Haz clic en los enlaces para acceder a la documentación detallada:
 ### 2. Diseño detallado
 
 * [**2.1. Diagrama de clases**](./imagenes/Dclases.png)
-* [**2.2. Diagrama de componentes**](./Plantillas/PlantillaDocumentaciónDiagramaComponentes.xlsx)
-* [**2.3. Diagrama de paquetes**](./Plantillas/PlantillaDocumentaciónDiagramaPaquetes.xlsx)
-* [**2.4. Diagrama de secuencia**](./Plantillas/PlantillaDocumentaciónDiagramaSecuencia.xlsx)
-* [**2.5. Diagrama de despliegue**](./Plantillas/PlantillaDocumentaciónDiagramaDespliegue.xlsx)
-* [**2.6. MER**](./Plantillas/Imagen%20MER%20(1).png)
+* [**2.2. Diagrama de componentes**](./Artefactos%20tecnicos/diagramaComp.md)
+* [**2.3. Diagrama de paquetes**](./Artefactos%20tecnicos/diagramaPaq.md)
+* [**2.4. Diagrama de secuencia**](./Artefactos%20tecnicos/diagramaSec.md)
+* [**2.5. Diagrama de despliegue**](./Artefactos%20tecnicos/diagramaDes.md)
+* [**2.6. MER**](./Artefactos%20tecnicos/MER.md)
 
 ### 3. Especificaciones técnicas
 
-* [**3.1. Requisitos Funcionales**]
-* [**3.2. Requisitos No Funcionales**]
+* [**3.1. Requisitos Funcionales**](./Diseño%20detallado/RequsitosFun.md)
+* [**3.2. Requisitos No Funcionales**](./Diseño%20detallado/RequisitosNoFun.md)
 * [**3.3. Atributos de calidad**](./Plantillas/Atributos%20de%20calidad.docx)
 
 ### 4. Seguimiento y pruebas
 
-* [**4.1. Análisis de código**]
-* [**4.2. Pruebas unitárias**]
+* [**4.1. Análisis de código y pruebas unitarias**](./Seguimiento%20codigo/AnálisisPruebas.md)
 
 ### 5. Despliegue y entrega
 
