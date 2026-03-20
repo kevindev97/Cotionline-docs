@@ -20,10 +20,7 @@ Haz clic en los enlaces para acceder a la documentación detallada:
 * [**1.2. Mapa de impacto**](./Artefactos%20estrategicos/mapa%20de%20impacto.md)
 * [**1.3. Modelos de dominio**]
       *[Anémico](./imagenes/Modelo%20de%20dominio%20anémico.png)
-      * [Enriquecido]
-       - [Contexto 1 - Usuario](./Plantillas/Usuario%20-%20Plantilla%20Modelo%20enriquecido.xlsx)
-       - [Contexto 2 - Proveedor](./Plantillas/Proveedor%20-%20Plantilla%20Modelo%20enriquecido.xlsx)
-       - [Contexto 3 - Administrador](./Plantillas/Administrador%20-%20Plantilla%20Modelo%20enriquecido.xlsx)
+      * [Enriquecido](./Plantillas/Plantilla%20Modelo%20enriquecido.xlsx)
 * [**1.4. Mapa de Historias de Usuario**](./Artefactos%20estrategicos/Historias%20de%20usuario/HU.md)
 
 ### 2. Diseño detallado
